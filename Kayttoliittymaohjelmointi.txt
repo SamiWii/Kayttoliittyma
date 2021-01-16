@@ -1,0 +1,5 @@
+Kayttoliittymaohjelmointi, syksy 2020
+
+Kuvaus sovelluksen Notepad2 ohjeista voitaisiin tallentaa tähän tiedostoon.
+
+https://raw.githubusercontent.com/SamiWii/Kayttoliittyma/main/Kayttoliittymaohjelmointi.txt
